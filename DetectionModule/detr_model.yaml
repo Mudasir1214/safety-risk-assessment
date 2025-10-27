@@ -1,0 +1,6 @@
+train: "/content/drive/MyDrive/project/Detection/crane_detection_dataset/train"
+val: "/content/drive/MyDrive/project/Detection/crane_detection_dataset/val"
+
+nc: 2
+names: ['mobile crane', 'tower crane']
+

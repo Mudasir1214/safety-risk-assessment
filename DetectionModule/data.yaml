@@ -1,0 +1,6 @@
+# path: "crane_detection_dataset"
+train: "datasets/crane_detection_dataset/train"
+val: "datasets/crane_detection_dataset/val"
+
+nc: 2
+names: ['mobile crane', 'tower crane']

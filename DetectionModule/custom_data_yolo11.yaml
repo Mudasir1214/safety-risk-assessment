@@ -1,0 +1,8 @@
+train: E:/ml_mo/Detection Module/datasets/crane_detection_dataset/training_dataset_v2/images/train_v2
+val: E:/ml_mo/Detection Module/datasets/crane_detection_dataset/training_dataset_v2/images/val_v2
+
+
+nc: 2
+names: ['mobile_crane', 'tower_crane']
+
+

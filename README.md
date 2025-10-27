@@ -160,5 +160,5 @@ We acknowledge Kim et al. (2024) for their foundational work on equipment condit
 If you use this work or its findings in your research, please cite:
 
 > M. Hussain, *Automated Safety Risk Assessment for Crane Operations Using Cascade Learning*, 2026.  
-> Available at: [https://github.com/ModiVision/safety-risk-assessment](https://github.com/Mudasir1214/safety-risk-assessment)
+> Available at: [https://github.com/Mudasir1214/safety-risk-assessment](https://github.com/Mudasir1214/safety-risk-assessment)
 

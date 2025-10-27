@@ -90,7 +90,7 @@ The `inference/` folder provides a unified inference pipeline for testing traine
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/ModiVision/safety-risk-assessment.git
+   git clone https://github.com/Mudasir1214/safety-risk-assessment.git
    cd safety-risk-assessment
    ```
 2. **Create and Activate Conda Environment**

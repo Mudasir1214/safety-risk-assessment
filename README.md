@@ -148,13 +148,12 @@ Output videos (if saved) will appear in the configured Output Dir `output_result
 A demonstration video of the inference pipeline in action is available [Demo Results Video](https://youtu.be/xSDrxOv0iaE)
 
 
-## License
-This repository is licensed under the [MIT License](LICENSE).
-You are free to use, share, and adapt this work, provided appropriate credit is given.
-
 ## Acknowledgment
 We acknowledge Kim et al. (2024) for their foundational work on equipment condition detection frameworks, which inspired the structural design of this study.
 
+## License
+This repository is licensed under the [MIT License](LICENSE).
+You are free to use, share, and adapt this work, provided appropriate credit is given.
 
 ## Citation
 If you use this work or its findings in your research, please cite:

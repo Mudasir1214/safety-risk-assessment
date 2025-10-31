@@ -25,7 +25,7 @@ In this step, we determined threshold values for all 19 activities. Activities w
 In this step, real-time warning signals were issued to crane operators. Originally, these signals were in text form, but we converted them into warning images.
 
 **f) Risk Monitoring and Review**\
-In this step, we implemented our cascaded pipeline on unseen videos to predict crane operational risks at construction sites. An example video can be viewed at [YouTube Video](https://youtu.be/xSDrxOv0iaE).
+In this step, we implemented our cascaded pipeline on unseen videos to predict crane operational risks at construction sites. An example video can be viewed at [YouTube Video](https://youtu.be/WJBz0k_3x0w).
 
 **g) Documentation**\
 Finally, we documented and recorded all steps properly.
@@ -145,7 +145,7 @@ Output videos (if saved) will appear in the configured Output Dir `output_result
 
 
 4. **Example Demo Video**\
-A demonstration video of the inference pipeline in action is available [Demo Results Video](https://youtu.be/xSDrxOv0iaE)
+A demonstration video of the inference pipeline in action is available [Demo Results Video](https://youtu.be/WJBz0k_3x0w)
 
 
 ## Acknowledgment
